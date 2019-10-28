@@ -1,0 +1,11 @@
+c:\users\gills\documents\visual studio 2015\Projects\Portal Turret\Portal Turret\bin\Debug\Portal Turret.exe.config
+C:\Users\gills\Documents\Visual Studio 2015\Projects\Portal Turret\Portal Turret\bin\Debug\Portal Turret.exe
+C:\Users\gills\Documents\Visual Studio 2015\Projects\Portal Turret\Portal Turret\bin\Debug\Portal Turret.pdb
+C:\Users\gills\Documents\Visual Studio 2015\Projects\Portal Turret\Portal Turret\obj\Debug\Portal Turret.csprojResolveAssemblyReference.cache
+C:\Users\gills\Documents\Visual Studio 2015\Projects\Portal Turret\Portal Turret\obj\Debug\Portal_Turret.Properties.Resources.resources
+C:\Users\gills\Documents\Visual Studio 2015\Projects\Portal Turret\Portal Turret\obj\Debug\Portal Turret.csproj.GenerateResource.Cache
+C:\Users\gills\Documents\Visual Studio 2015\Projects\Portal Turret\Portal Turret\obj\Debug\Portal Turret.exe
+C:\Users\gills\Documents\Visual Studio 2015\Projects\Portal Turret\Portal Turret\obj\Debug\Portal Turret.pdb
+C:\Users\gills\Documents\Visual Studio 2015\Projects\Portal Turret\Portal Turret\obj\Debug\Portal_Turret.mainForm.resources
+C:\Users\gills\Documents\Visual Studio 2015\Projects\Portal Turret\Portal Turret\bin\Debug\Emgu.CV.xml
+C:\Users\gills\Documents\Visual Studio 2015\Projects\Portal Turret\Portal Turret\bin\Debug\Emgu.Util.xml
